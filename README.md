@@ -35,8 +35,3 @@ O sistema opera com um banco de dados dedicado (`gestorpro`) e possui três tabe
 * PostgreSQL instalado localmente (ou hospedado na nuvem)
 * PgAdmin ou DBeaver para gestão do banco de dados
 
-### Passos para Instalação
-
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/SeuUsuario/GestorPro_Acessos.git](https://github.com/SeuUsuario/GestorPro_Acessos.git)
