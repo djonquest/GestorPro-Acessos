@@ -4,7 +4,7 @@ Um sistema de gestão de utilizadores e controlo de acessos desenvolvido em **C#
 
 ## ✨ Funcionalidades Principais
 
-* **Autenticação Segura:** Proteção de senhas com Hash criptográfico utilizando a biblioteca `BCrypt`.
+* **Autenticação Segura:** Proteção de palavras-passe com Hash criptográfico utilizando a biblioteca `BCrypt`.
 * **Controlo de Perfis (RBAC):** Diferenciação de permissões entre `Administrador` (acesso total a gestão) e `Comum` (acesso restrito).
 * **Bloqueio de Segurança:** Sistema de proteção contra força bruta que bloqueia temporariamente a conta após 3 tentativas de login falhadas, com opção de desbloqueio manual pelo Administrador.
 * **Auditoria Completa (Logs):** Rastreabilidade rigorosa de ações críticas (criação, edição e exclusão de utilizadores). Nenhuma exclusão pode violar o histórico de auditoria.
@@ -35,3 +35,6 @@ O sistema opera com um banco de dados dedicado (`gestorpro`) e possui três tabe
 * PostgreSQL instalado localmente (ou hospedado na nuvem)
 * PgAdmin ou DBeaver para gestão do banco de dados
 
+## 👨‍💻 Autor
+
+Desenvolvido por **Valdinei Pereira** como parte de estudos aprofundados em engenharia de software e análise de sistemas.
